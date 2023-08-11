@@ -29,5 +29,18 @@ This repository is about EDA performed on the various battles of the Game of Thr
 * The Riverlands is that region, where the attacker kings wins most number of battles.
 The Riverlands and The Crownlands are the regions, where the defender kings wins most number of battles.
 
+# Skills  
+* Python
+* Numpy
+* Pandas
+* Matplotlib
+* Seaborn
+* Plotly
+* Jupyter Notebok
+* Kaggle
+* Statistics
 
+# Dataset
+* You can download the dataset from the kaggle website.
+* https://www.kaggle.com/datasets/mylesoneill/game-of-thrones?select=battles.csv
 
