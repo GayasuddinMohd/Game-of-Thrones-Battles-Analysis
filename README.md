@@ -1,2 +1,2 @@
-# Exploratory-Data-Analysis-on-Battles-of-Game-of-Thrones-
-This is the in depth Exploratory Data Analysis on Battles of Game of Thrones , with beautiful and simple visualizations plots which will helps to understand the insights easily.
+![Image Alt Text](https://github.com/GayasuddinMohd/Exploratory-Data-Analysis-on-Battles-of-Game-of-Thrones-/blob/main/Battles%20of%20Game%20of%20Thrones%20image.jpg?raw=true)
+
