@@ -29,7 +29,7 @@ This repository is about EDA performed on the various battles of the Game of Thr
 * The Riverlands is that region, where the attacker kings wins most number of battles.
 The Riverlands and The Crownlands are the regions, where the defender kings wins most number of battles.
 
-# Skills  
+# Technologies Used
 * Python
 * Numpy
 * Pandas
