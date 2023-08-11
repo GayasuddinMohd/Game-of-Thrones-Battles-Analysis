@@ -8,6 +8,21 @@ This repository is about EDA performed on the various battles of the Game of Thr
    - It has a python notebook where all the coding has been done.
    - It also has the relevant datasets and files used for this analysis.
 
+# Technologies Used
+* Python
+* Numpy
+* Pandas
+* Matplotlib
+* Seaborn
+* Plotly
+* Jupyter Notebok
+* Kaggle
+* Statistics
+
+# Dataset
+* You can download the dataset from the kaggle website.
+* https://www.kaggle.com/datasets/mylesoneill/game-of-thrones?select=battles.csv
+
 # Summary
 * Joffrey/Tommen Baratheon has attack the most number of times among kings in the Game of Thrones.
 * Riverrun is the most battled location.
@@ -28,19 +43,3 @@ This repository is about EDA performed on the various battles of the Game of Thr
 * So it is clearly visible that for winning the battle by the attacker kings, the army size of the attackers kings does not matter.
 * The Riverlands is that region, where the attacker kings wins most number of battles.
 The Riverlands and The Crownlands are the regions, where the defender kings wins most number of battles.
-
-# Technologies Used
-* Python
-* Numpy
-* Pandas
-* Matplotlib
-* Seaborn
-* Plotly
-* Jupyter Notebok
-* Kaggle
-* Statistics
-
-# Dataset
-* You can download the dataset from the kaggle website.
-* https://www.kaggle.com/datasets/mylesoneill/game-of-thrones?select=battles.csv
-
