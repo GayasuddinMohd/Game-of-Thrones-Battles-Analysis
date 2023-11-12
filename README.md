@@ -7,8 +7,7 @@ This is the analysis on the battles of the Game of the Thrones. The battles.csv 
 * Python
 
 # 🌷  Dataset  🌷
-* You can download the dataset from the kaggle website.
-* https://www.kaggle.com/datasets/mylesoneill/game-of-thrones?select=battles.csv
+* Download the dataset from [Kaggle](https://www.kaggle.com/datasets/mylesoneill/game-of-thrones?select=battles.csv).
 
 # 🌷  Summary  🌷
 * Joffrey/Tommen Baratheon has attack the most number of times among kings in the Game of Thrones.
