@@ -1,23 +1,10 @@
 ![Image Alt Text](https://i.postimg.cc/nh03JXtN/Battles-of-Game-of-Thrones-image.jpg)
 
 # 🌷  Game of Thrones Battles Analysis  🌷
-This is the exploratory data analysis on the battles of the Game of the Thrones. The battles.csv dataset offers a captivating glimpse into the epic battles that unfold in the world of Westeros and Essos, as depicted in the renowned "Game of Thrones" series. This dataset is meticulously curated to provide fans, researchers, and enthusiasts with comprehensive details about the battles that shape the fate of the Seven Kingdoms and beyond.
-
-# 🌷  Repository Overview  🌷
-This repository is about EDA performed on the various battles of the Game of Thrones.
-   - It has a python notebook where all the coding has been done.
-   - It also has the relevant datasets and files used for this analysis.
+This is the analysis on the battles of the Game of the Thrones. The battles.csv dataset offers a captivating glimpse into the epic battles that unfold in the world of Westeros and Essos, as depicted in the renowned "Game of Thrones" series. This dataset is meticulously curated to provide fans, researchers, and enthusiasts with comprehensive details about the battles that shape the fate of the Seven Kingdoms and beyond.
 
 # 🌷  Technologies Used  🌷
 * Python
-* Numpy
-* Pandas
-* Matplotlib
-* Seaborn
-* Plotly
-* Jupyter Notebok
-* Kaggle
-* Statistics
 
 # 🌷  Dataset  🌷
 * You can download the dataset from the kaggle website.
