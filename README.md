@@ -9,7 +9,7 @@ This is the analysis on the battles of the Game of the Thrones. The battles.csv 
 # Dataset  
 * Download the dataset from [Kaggle](https://www.kaggle.com/datasets/mylesoneill/game-of-thrones?select=battles.csv).
 
-# Summary  
+# Insights  
 * Joffrey/Tommen Baratheon has attack the most number of times among kings in the Game of Thrones.
 * Riverrun is the most battled location.
 * Stannis Baratheon among kings has attack with most number of army.
