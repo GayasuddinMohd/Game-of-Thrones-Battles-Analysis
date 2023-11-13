@@ -3,7 +3,7 @@
 # Game of Thrones Battles Analysis  
 This is the analysis on the battles of the Game of the Thrones. The battles.csv dataset offers a captivating glimpse into the epic battles that unfold in the world of Westeros and Essos, as depicted in the renowned "Game of Thrones" series. This dataset is meticulously curated to provide fans, researchers, and enthusiasts with comprehensive details about the battles that shape the fate of the Seven Kingdoms and beyond.
 
-# Technologies Used 
+# Skills
 * Python
 
 # Dataset  
